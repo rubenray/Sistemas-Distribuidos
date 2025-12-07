@@ -1,8 +1,8 @@
-# Curso Práctico de MQTT con Raspberry Pi
+# Practicas de MQTT con Raspberry Pi para sistemas distribuidos
 
 ## Introducción
 
-Este curso está diseñado para que cualquier estudiante o profesional pueda aprender **MQTT desde cero utilizando una Raspberry Pi**, con prácticas reales fáciles de replicar y enfocadas en proyectos de IoT.
+Este curso está diseñado para  aprender **MQTT desde cero utilizando una Raspberry Pi**, con prácticas reales enfocadas en proyectos de IoT.
 
 El material está preparado en formato Markdown para ser colocado directamente en un repositorio de **GitHub**.
 
