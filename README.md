@@ -1,4 +1,4 @@
-# Curso MQTT con Raspberry Pi
+# Practicas MQTT con Raspberry Pi
 
 Este repositorio contiene un curso práctico para aprender MQTT utilizando Raspberry Pi.
 
@@ -8,5 +8,3 @@ Este repositorio contiene un curso práctico para aprender MQTT utilizando Raspb
 - Carpeta de prácticas
 - Estructura recomendada para GitHub
 
-## Cómo usar
-Puedes subir esta carpeta directamente a un repositorio en GitHub.
